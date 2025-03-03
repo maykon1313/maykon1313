@@ -1,5 +1,5 @@
 # 💫 Hello wo-, I am Maykon:
-Studying Computer Engineering so I can debug my life and code my living.<br><br>🌱 I’m currently learning Git and GitHub.<br>💬 Ask me about anything, I like helping and learning new things.<br>📫 How to reach me: tamanahakazuhiro@gmail.com.<br>👨‍💻 All of my projects are available at: Google Drive (Ops!).<br>📝 I (not) regularly write articles on [Hashnode](https://maykon.hashnode.dev/).<br>⚡ Fun fact: I only use YouTube daily.
+Studying Computer Engineering so I can debug my life and code my living.<br><br>🌱 I’m currently learning Nvim.<br>💬 Ask me about anything, I like helping and learning new things.<br>📫 How to reach me: tamanahakazuhiro@gmail.com.<br>👨‍💻 All of my projects are available at: Google Drive (Ops!).<br>⚡ Fun fact: I only use YouTube daily.
 
 
 # 💻 Tech Stack:
